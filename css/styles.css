@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    font-family: 'Italiana', serif;
+}
+
+h1 {
+    color: white;
+    font-size: 100rem;
+}
+ 
+span {
+    font-size: 14rem;
+}
+
+.nav-item {
+    color: white;
+    text-decoration: none;
+}
